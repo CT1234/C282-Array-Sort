@@ -1,5 +1,5 @@
 # C282-Array-Sort
-Class Assignment - Array sorts
+Class Assignment - Array content sorting
 11/18/2014
 
 Given a a text file called myword.txt:    
